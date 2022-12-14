@@ -1,0 +1,32 @@
+Experiment No 10   
+Deployment of deep learning model for serving
+
+Experiment No 9   
+Design and develop a model for character level text generation using LSTM
+
+Experiment No 8   
+Design and develop a model for identifying sentiment of twitter dataset.
+
+Experiment No 7   
+Using pre-trained convolutional neural network for image classification.
+
+Experiment No 6   
+Design and develop a convolutional neural network for image classification
+
+Experiment No 5   
+Design and develop a model for predicting house prices.
+
+Experiment No 4   
+Identifying effect of different hyperparameters and parameters on neural network in optimization task.
+
+Experiment No 3   
+Design and develop a deep feed forward neural network to classify fashion products from Fashion MNIST dataset.
+
+Experiment No 2   
+Design and develop a shallow neural network to classify fashion products from Fashion MNIST Dataset. 
+
+Experiment No 1   
+Installation of Anaconda and introduction to Tensorflow and Keras
+
+
+

@@ -1,0 +1,77 @@
+Oral :- 
+
+#####################################################################################################
+
+what is parameter - 
+	In deep neural network, weights and bias are searched with the help of loss function 
+and optimization algorithm during training phase. These weights and bias are called 
+parameters.
+
+Hyperparameter - 
+	While, a hyperparameter is a parameter whose value is set before the learning 
+process begins. 
+	Some of the hyperparameters are learning rate, hidden units, mini batch size, 
+beta, number of layers, learning decay rate, number of units in each layers. These 
+hyperparameter need to set with correct values to avoid overfitting and underfitting
+
+For tuning deep neural network with different hyperparameters, following methods 
+can be used:
+1. Manually setting values
+2. Grid Search method
+3. Random Search method
+
+What is hyperparameter and how to choose it,
+
+#####################################################################################################
+
+RNN, 
+
+activation function, 
+
+Difference between relu and leaky relu, 
+
+what is SGD, 
+
+vectors embedding, 
+
+bag of word,
+
+#####################################################################################################
+
+Lstm - 
+Is LSTM a deep learning model?
+Long short-term memory (LSTM) is a deep learning architecture based on an artificial recurrent neural network (RNN).
+
+How LSTM is used in deep learning?
+' LSTM stands for long short-term memory networks, used in the field of Deep Learning. It is a variety of recurrent neural networks (RNNs) that are capable of learning long-term dependencies, especially in sequence prediction problems.
+
+Is LSTM RNN or CNN?
+LSTM is a type of RNN
+
+#####################################################################################################
+
+Shallow and deep neural network difference,
+
+How to avoid high variance,
+
+Learning rate decay rate,
+
+Activation function..is it present in output layer,
+
+What happens in hidden layer,
+
+What is vectorization,
+
+Seqeuncial model,
+
+Hyperparameter how to choose hyperparameter ,
+
+Shallow and deep neural network diff,
+
+Activation function ,
+
+Compile and evaluate diff,
+
+Bias functio.
+
+Google colab mdhe code kr
